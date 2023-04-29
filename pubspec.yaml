@@ -66,13 +66,7 @@ flutter:
     - assets/images/twitter.png
     - assets/images/cuate.png
     - assets/images/house.png
-    # - D:/Project flutter/mykost/assets/images/logo.png
-    # - D:/Project flutter/mykost/assets/images/facebook.png
-    # - D:/Project flutter/mykost/assets/images/google.png
-    # - D:/Project flutter/mykost/assets/images/twitter.png
-    # - D:/Project flutter/mykost/assets/images/cuate.png
-    # - D:/Project flutter/mykost/assets/images/house.png
-
+    
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 

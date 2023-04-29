@@ -60,12 +60,12 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - D:/Project flutter/MyKost/mykost/assets/images/logo.png
-    - D:/Project flutter/MyKost/mykost/assets/images/facebook.png
-    - D:/Project flutter/MyKost/mykost/assets/images/google.png
-    - D:/Project flutter/MyKost/mykost/assets/images/twitter.png
-    - D:/Project flutter/MyKost/mykost/assets/images/cuate.png
-    - D:/Project flutter/MyKost/mykost/assets/images/house.png
+    - D:/Project flutter/tes/mykost/mykost/assets/images/logo.png
+    - D:/Project flutter/tes/mykost/mykost/assets/images/facebook.png
+    - D:/Project flutter/tes/mykost/mykost/assets/images/google.png
+    - D:/Project flutter/tes/mykost/mykost/assets/images/twitter.png
+    - D:/Project flutter/tes/mykost/mykost/assets/images/cuate.png
+    - D:/Project flutter/tes/mykost/mykost/assets/images/house.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
@@ -93,10 +93,10 @@ flutter:
   fonts:
     - family: BebasNeue
       fonts:
-        - asset: fonts/BebasNeue-Regular.ttf
+        - asset: assets/fonts/BebasNeue-Regular.ttf
     - family: Ubuntu
       fonts:
-        - asset: fonts/Ubuntu-Regular.ttf
+        - asset: assets/fonts/Ubuntu-Regular.ttf
 
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages

@@ -36,7 +36,7 @@ class _LoginAsPageState extends State<LoginAsPage> {
             child: Column(
               children: [
                 Image.asset(
-                  'D:/Project flutter/MyKost/mykost/assets/images/cuate.png',
+                  'assets/images/cuate.png',
                   fit: BoxFit.cover,
                   width: 250,
                   height: 250,

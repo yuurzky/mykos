@@ -32,7 +32,7 @@ class _WelcomePageState extends State<WelcomePage> {
               borderRadius: BorderRadius.circular(8),
             ),
             child: Image.asset(
-              'D:/Project flutter/MyKost/mykost/assets/images/logo.png',
+              'assets/images/logo.png',
               fit: BoxFit.cover,
             ),
           ),

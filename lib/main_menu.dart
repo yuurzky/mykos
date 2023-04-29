@@ -14,8 +14,7 @@ class _MainMenuState extends State<MainMenu> {
     return Scaffold(
       appBar: AppBar(
         leading: IconButton(
-          icon: Image.asset(
-              'D:/Project flutter/MyKost/mykost/assets/images/logo.png'),
+          icon: Image.asset('assets/images/logo.png'),
           onPressed: null,
         ),
         backgroundColor: const Color(0xff0c1f43),
@@ -198,7 +197,7 @@ class _MainMenuState extends State<MainMenu> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Image.asset(
-                          'D:/Project flutter/MyKost/mykost/assets/images/house.png',
+                          'assets/images/house.png',
                           fit: BoxFit.fill,
                         ),
                         Row(
@@ -290,7 +289,7 @@ class _MainMenuState extends State<MainMenu> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Image.asset(
-                          'D:/Project flutter/MyKost/mykost/assets/images/house.png',
+                          'assets/images/house.png',
                           fit: BoxFit.fill,
                         ),
                         Row(
@@ -372,7 +371,7 @@ class _MainMenuState extends State<MainMenu> {
                   height: 80,
                   width: 180,
                   child: Image.asset(
-                    'D:/Project flutter/MyKost/mykost/assets/images/house.png',
+                    'assets/images/house.png',
                     fit: BoxFit.fill,
                   ),
                 ),
@@ -380,7 +379,7 @@ class _MainMenuState extends State<MainMenu> {
                   height: 80,
                   width: 180,
                   child: Image.asset(
-                    'D:/Project flutter/MyKost/mykost/assets/images/house.png',
+                    'assets/images/house.png',
                     fit: BoxFit.fill,
                   ),
                 ),
@@ -397,7 +396,7 @@ class _MainMenuState extends State<MainMenu> {
                   height: 80,
                   width: 180,
                   child: Image.asset(
-                    'D:/Project flutter/MyKost/mykost/assets/images/house.png',
+                    'assets/images/house.png',
                     fit: BoxFit.fill,
                   ),
                 ),
@@ -405,7 +404,7 @@ class _MainMenuState extends State<MainMenu> {
                   height: 80,
                   width: 180,
                   child: Image.asset(
-                    'D:/Project flutter/MyKost/mykost/assets/images/house.png',
+                    'assets/images/house.png',
                     fit: BoxFit.fill,
                   ),
                 ),

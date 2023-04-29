@@ -370,7 +370,7 @@ class _LoginPageState extends State<LoginPage> {
                               // Add your Google button onPressed action here
                             },
                             icon: Image.asset(
-                              'D:/Project flutter/MyKost/mykost/assets/images/google.png',
+                              'assets/images/google.png',
                               width: 50,
                               height: 50,
                             ),
@@ -383,7 +383,7 @@ class _LoginPageState extends State<LoginPage> {
                               // Add your Facebook button onPressed action here
                             },
                             icon: Image.asset(
-                              'D:/Project flutter/MyKost/mykost/assets/images/facebook.png',
+                              'assets/images/facebook.png',
                               width: 50,
                               height: 50,
                             ),
@@ -396,7 +396,7 @@ class _LoginPageState extends State<LoginPage> {
                               // Add your Twitter button onPressed action here
                             },
                             icon: Image.asset(
-                              'D:/Project flutter/MyKost/mykost/assets/images/twitter.png',
+                              'assets/images/twitter.png',
                               width: 50,
                               height: 50,
                             ),
